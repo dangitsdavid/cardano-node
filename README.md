@@ -19,6 +19,7 @@ So today, we will be building up a Cardano Node on AWS.
 3. AWS Platform to host our node: https://aws.com
 4. Free Udemy Course on Plutus (smart contract programming): https://www.udemy.com/course/plutus-reliable-smart-contracts/
 5. Free Udemy Course on Marlowe (smart contract non-programming): https://www.udemy.com/course/marlowe-programming-language/
+6. Coincashew's Cardano Node Tutorial: https://www.coincashew.com/coins/overview-ada/guide-how-to-build-a-haskell-stakepool-node
 
 ## Additional Resources
 1. Harden your Ubuntu Servers: https://www.lifewire.com/harden-ubuntu-server-security-4178243
